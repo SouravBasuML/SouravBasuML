@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouravBasuML
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning ML using Python
+- 🌱 I’m currently learning machine learning using Python
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me sourav2912@gmail.com
 
